@@ -4,5 +4,5 @@
 # Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viktoriia&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&show_icons=true%22"/>
 
- <img src="https://github-readme-stats.vercel.app/api?username=Viktoriia&hide=issues&theme=tokyonight"/>       
+ <img src="https://github-readme-stats.vercel.app/api?username=viktoriia&hide=issues&theme=tokyonight"/>       
 </p>  
