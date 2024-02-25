@@ -1,4 +1,4 @@
-# Viktoriia
+# viktoriia
 ### ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟𝕤: 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 # Stats
