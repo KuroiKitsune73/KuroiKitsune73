@@ -13,8 +13,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" width="150">
   </div>
 </div>
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+
 # Stats
+![](./profile-3d-contrib/profile-south-season-animate.svg)
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroiKitsune73&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&show_icons=true%22"/>
 
  <img src="https://github-readme-stats.vercel.app/api?username=KuroiKitsune73&hide=issues&theme=tokyonight"/>       
